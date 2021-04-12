@@ -31,7 +31,7 @@ public class LegoSet {
 
     private int pieces;
 
-    public enum Packaging {BOX, POLYBAG,}
+    public enum Packaging {BOX, POLYBAG}
 
     private Packaging packaging;
 
